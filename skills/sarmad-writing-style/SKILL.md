@@ -214,6 +214,32 @@ penalty, a defined term reused loosely, a conclusion missing the premise that ma
 > $U_r = 75.0\%$. That is, feeder A keeps $0.25 \times 8.31 = 2.08$ MVA free: exactly a third of
 > what a similar neighbor at 75% carries.
 
+## On slides (course decks, Oct 2026)
+
+Slides take structure and format from `house-voice` and the project's `course-decks` skill;
+his voice shows in the lead-ins and keypoints. From his review rounds on Weeks 5-7:
+
+- **His connectives fit in small type.** Lead-ins open with "Now, we ...", "Consider ...";
+  concept slides use Consider / Hence / For example cells; key points are a bold claim plus
+  one sentence of mechanism.
+- **Statements, not announced questions.** He cut "The question here is ...". Beat 1 of the
+  concept walk ("Name the question") becomes, on a slide, a one-line statement of the point.
+- **Topics, not steps.** No "Step N" anywhere; the contract table lists topics.
+- **No coined teaching labels** ("teaching bank"); give general rules and cite the standard.
+- **Every word that acts as a term is defined where it appears**, with symbol, unit, and a
+  typical value ("what is 'a delay'?" -> $t_d$, 120 s).
+- **Locations need a picture**: a feeder drawing with the buses marked, beside the table.
+- **Name the system fully** ("IEEE 13-bus Cap1") and the run behind a number ("Notebook 07").
+- **"Slide", not "frame"; no "Week N" back-references** except the preview on `Next`.
+- **Sensitivities and day-long runs go to a notebook and the appendix**, so the lecture
+  stays on the derivation. This is beat 9 moved off the main line.
+- **His Title Case titles stay.** On slides he writes "Voltage Delivery", "Today \& Next
+  Week"; do not revert them to sentence case, even though `house-voice` would.
+- **He edits the .tex live while you work.** Re-read before each replace; keep his words, his
+  deletions, and his empty placeholders. If his text has a problem, flag it in the reply.
+- **"Slide N" in his notes is the PDF page number.** If a number looks off ("37" in a list of
+  46-48), pick the consistent reading and say which one you used.
+
 ## Checklist before handing back
 
 - [ ] Each concept opens with the question it answers.
